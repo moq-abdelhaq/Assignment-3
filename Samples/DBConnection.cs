@@ -13,6 +13,5 @@ namespace Samples
         //passing this to DatabaseService also result into Stamp Coupling, since Database service 
         //dont relay on Query for creating a connection 
         public string Query { get; set; }
-
     }
 }
