@@ -1,0 +1,13 @@
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\bin\Debug\netcoreapp3.1\Samples.exe
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\bin\Debug\netcoreapp3.1\Samples.deps.json
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\bin\Debug\netcoreapp3.1\Samples.runtimeconfig.json
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\bin\Debug\netcoreapp3.1\Samples.runtimeconfig.dev.json
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\bin\Debug\netcoreapp3.1\Samples.dll
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\bin\Debug\netcoreapp3.1\Samples.pdb
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\obj\Debug\netcoreapp3.1\Samples.csprojAssemblyReference.cache
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\obj\Debug\netcoreapp3.1\Samples.AssemblyInfoInputs.cache
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\obj\Debug\netcoreapp3.1\Samples.AssemblyInfo.cs
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\obj\Debug\netcoreapp3.1\Samples.csproj.CoreCompileInputs.cache
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\obj\Debug\netcoreapp3.1\Samples.dll
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\obj\Debug\netcoreapp3.1\Samples.pdb
+C:\Users\mabedalh\Desktop\Assignment-3\Samples\obj\Debug\netcoreapp3.1\Samples.genruntimeconfig.cache
