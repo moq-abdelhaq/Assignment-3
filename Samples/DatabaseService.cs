@@ -12,10 +12,5 @@ namespace Samples
             //for this function in order to further create the connection to Database
         }
 
-        public void Query(String query)
-        {
-            //Query Execution
-        }
-
     }
 }
